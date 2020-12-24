@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+   <table name="btCookbookGallery">
+      <field name="bID" type="I">
+         <key />
+         <unsigned />
+      </field>
+      <field name="file_set" type="I"></field>
+      <field name="count" type="I"></field>
+   </table>
+</schema>

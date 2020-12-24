@@ -1,0 +1,11 @@
+.gallery-wrapper {
+	margin: 50px 0;
+}
+
+.gallery-image {
+	opacity: .85;
+}
+
+.gallery-image:hover {
+	opacity: 1;
+}
